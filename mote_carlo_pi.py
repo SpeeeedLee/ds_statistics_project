@@ -53,7 +53,7 @@ ax.add、ax.add_patch、axix_set_xlim ... 則是用來
 
 '''
 
-
+#################
 #### 執行實驗 ####
 for i in range (n_dots):
     x = 2 * np.random.rand() - 1
